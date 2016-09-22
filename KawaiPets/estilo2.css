@@ -1,0 +1,52 @@
+ul{
+
+margin : 0;
+padding: 0;
+list-style:none;
+width:150px;
+}
+ul li{
+position:realtive;
+}
+li ul{
+	position:absolute;
+	left:149 px;
+	top:0;
+	display:none;
+}
+ul li a{
+	display:block;
+	text-decoration:none;
+	color:#e2144a;
+	background:#fff;
+	fon
+}
+#corpo{
+	margin-left: 20%;
+	margin-right:20%;
+	text-align:center;
+	opacity:1;
+}
+.paragrafo{
+	color:#B452CD;
+	text-aling:center;
+	font-size:8pt;
+}
+#fundo{
+	background-color:#EEAEEE;
+	bgproperties="size";
+	font-family:Broadway;
+}
+#papel{
+	background-color:#A52A2A;
+	texta-ling:left;
+}
+#titulo{
+	text-align: center;
+}
+#h1{
+color: rgb(255, 102, 102);
+font-weight: normal; 
+font-style: italic;
+text-align: center;
+}
